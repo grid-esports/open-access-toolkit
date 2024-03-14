@@ -7,7 +7,7 @@ from gql.transport.aiohttp import AIOHTTPTransport
 
 # set your GRID_API_KEY as an env var before running.
 GRID_API_KEY = os.environ.get("GRID_API_KEY")
-GRID_SSAPI_URL = "https://api.grid.gg/live-data-feed/series-state/graphql"
+GRID_SSAPI_URL = "https://api-op.grid.gg/live-data-feed/series-state/graphql"
 
 transport = AIOHTTPTransport(url=GRID_SSAPI_URL, headers={'X-API-KEY': GRID_API_KEY})
 client = Client(transport=transport, fetch_schema_from_transport=True)
