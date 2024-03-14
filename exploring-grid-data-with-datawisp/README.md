@@ -1,7 +1,7 @@
 # Exploring GRID Data with Datawisp
-A blog post and tutorial in which we team up with our friends at Datawisp to describe how to analyze series state data for VALORANT, CSGO & CS2 with Datawisp's visual-scripting based platform.
+A blog post and tutorial in which we team up with our friends at Datawisp to analyze series state data for VALORANT, CSGO & CS2 with their visual-scripting based platform.
 
-Article Links: links go here
+Article Links: [GRID Blog](https://blog.grid.gg/exploring-grid-data-with-datawisp), [GRID Knowledge Base](https://grid.gg/exploring-grid-data-with-datawisp)
 
 ## Series State Exporter
 Gives Open Access users the ability to retrieve and download the state for a series, for usage with data analysis tools and frameworks.
